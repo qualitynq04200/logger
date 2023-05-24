@@ -1,0 +1,31 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# build output
+/build
+
+# environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# local development
+.env.local
+.env.development.local
+
+# IDE files
+.vscode
+.idea
+
+# macOS files
+.DS_Store
+
+# npm cache
+/.npm
+
