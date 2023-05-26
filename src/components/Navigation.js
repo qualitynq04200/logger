@@ -9,7 +9,7 @@ const Navigation = () => {
         
         {/* Navbar Brand */}
         <Navbar.Brand>
-          <Link to="/">React-Bootstrap</Link>
+          <Link to="/">Logger</Link>
         </Navbar.Brand>
 
         {/* Navbar Toggle */}
