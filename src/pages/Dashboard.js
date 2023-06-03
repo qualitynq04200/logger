@@ -8,17 +8,17 @@ function Dashboard() {
     {
       id: 1,
       title: "Card 1",
-      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      content: "This is an example card.",
     },
     {
       id: 2,
       title: "Card 2",
-      content: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+      content: "Same with this one.",
     },
     {
       id: 3,
       title: "Card 3",
-      content: "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+      content: "Still going....",
     },
   ]);
   const [showModal, setShowModal] = useState(false);
